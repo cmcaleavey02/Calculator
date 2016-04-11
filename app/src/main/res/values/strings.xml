@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="welcome_instructions">Enter two numbers</string>
+</resources>
