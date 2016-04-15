@@ -8,6 +8,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * Main activity class
+ */
 public class MainActivity extends AppCompatActivity {
 
     private EditText operand1;
